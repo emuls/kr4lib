@@ -1,0 +1,12 @@
+#default android studio git ignore
+.gradle
+local.properties
+.idea
+.DS_Store
+build
+
+#symbolic link modules
+kr4lib
+androidQuickResponseCode
+simpleNetworking
+simpleQRScanner
